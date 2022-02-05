@@ -1,7 +1,7 @@
 # Projeto ACME
 Um projeto de teste com um arquivo README🚀
 
-[<img src="./materiais/tela.gif" alt="tela inicial do projeto">]
+[<img src="tela.gif" alt="tela inicial do projeto">]
 
 ## Tecnologias utilizadas
 - HTML
